@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Muli'
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 40%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    
+}
+
+.inputText {
+    display: flex;
+    flex-direction: column;
+}
+
+.otherQues {
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type=text] {
+
+}
+
+.submitBtn {
+    display: flex;
+    justify-content: center;
+}
+
+input[type=submit] {
+
+}
+
